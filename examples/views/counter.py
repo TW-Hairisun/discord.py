@@ -40,4 +40,4 @@ async def counter(ctx: commands.Context):
     await ctx.send('Press!', view=Counter())
 
 
-bot.run('token')
+ODc3NDU1NTUzNjI5MTUxMjcy.YRy4Kg.x4c9UCd4Ikel4rMJTBfybbqel-A
